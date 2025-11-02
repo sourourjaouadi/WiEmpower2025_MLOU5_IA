@@ -1,0 +1,5 @@
+Zone,Plant,Soil,Humidity,Threshold,State
+1,Tomato,well-drained,54.9,75,SEC
+2,Potato,moist,76.6,80,SEC
+3,Olive,sandy,47.7,40,OK
+4,Cucumbers,well-drained,72.0,75,SEC
