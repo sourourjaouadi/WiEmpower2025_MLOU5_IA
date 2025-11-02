@@ -1,0 +1,30 @@
+[
+  {
+    "Time": "2025-11-02T05:47:26",
+    "Zone": 1,
+    "Plant": "Tomato",
+    "Soil": "medium",
+    "Humidity": 54.9
+  },
+  {
+    "Time": "2025-11-02T05:47:26",
+    "Zone": 2,
+    "Plant": "Potato",
+    "Soil": "moist",
+    "Humidity": 76.6
+  },
+  {
+    "Time": "2025-11-02T05:47:26",
+    "Zone": 3,
+    "Plant": "Olive",
+    "Soil": "sandy",
+    "Humidity": 47.7
+  },
+  {
+    "Time": "2025-11-02T05:47:26",
+    "Zone": 4,
+    "Plant": "Cucumbers",
+    "Soil": "well-drained",
+    "Humidity": 72.0
+  }
+]
